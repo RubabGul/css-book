@@ -1,0 +1,99 @@
+#page{
+    width: 100%px;
+    height: 100vh;
+    margin: 0px auto;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+header{
+    height: 170px;
+    background-color: rgb(88, 86, 86);
+}
+.logo{
+    height: 80px;
+    float: left;
+    margin: 30px;
+}
+header h1 {
+    padding-top:30px;
+    float: left;
+    padding-left: px;
+}
+header p{
+    float: left;
+    padding-top: 80px;
+    margin-left: -270px;
+    font-size: 14px;
+}
+nav{
+    height: 30px;
+    background-color:gray;
+    clear: both;
+    padding-top: -2px;
+}   
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 40px;
+    text-align: center;
+}
+.home{
+    margin-left: 0px !important;
+    color: black;
+}
+section{
+    width: 70%;
+    background-color: blu;
+    float: left;
+    color: black;
+}
+article{
+    clear: both;
+}
+figcaption{
+    margin-top: 5px;
+}
+figure{
+    float: left;
+}
+hgroup{
+    float: left;
+    margin-left: -10px;
+}
+hgroup h1{
+    margin-top: 25px;
+    font-size: 20px;
+}
+hgroup #london{
+    margin-top: -15px;
+    color: rgb(206, 110, 126);
+}
+aside {
+    height:485px;
+    width: 30%;
+    float: left;
+    color:rgb(206, 110, 126) ;
+}
+.recipes{
+    margin-left: 30px;
+    margin-top: 10px;
+    color:rgb(206, 110, 126) ;
+}
+.recipes a{
+    margin-top: 20px;
+    color:rgb(206, 110, 126) ;
+}
+.con{
+    margin-top: 40px;
+}
+.p2{
+    color: black;
+    line-height: 1.4em;
+}
+footer{
+    height: 30px;
+    background-color: gray;
+    width: 100%;
+    float: left;
+}

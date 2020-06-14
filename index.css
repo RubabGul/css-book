@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    background-image: radial-gradient(rgba(114, 114, 233, 0.89), rgb(150, 142, 142));
+    font-size: 16px;
+    line-height: 1.9;
+    padding: 30px;  
+    color: white;
+}
+.top{
+
+}
+.header{
+    text-align: center;
+    display: block;
+    font-style: italic;
+    background-image: url(IMAGES/chp15/more1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.links{
+    padding: 30px;
+    margin-left: 30%;
+}
+button{
+    font-size: 15px;
+    padding: 10px;
+    font-weight: 700;
+    margin: 8px;
+    width: 300px;
+    background-color: rgb(229, 155, 206);
+    background-image:linear-gradient(rgba(218, 207, 207, 0.87),rgba(224, 214, 224, 0.925)),  url(IMAGES/chp16/pic1.png);
+    border-radius: 100px;
+    border: 2px white solid;
+}

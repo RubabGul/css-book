@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(202, 191, 191);
+}
+.container{
+    width: 1280px;
+    display: block;
+}
+.align-center{
+    display: block;
+    margin: 0px auto;
+}
+.logo{
+    margin: 30px;
+    text-align: center;
+}
+.logo p{
+    font-size: 18px;
+    color: rgb(39, 42, 44);
+}
+.content{
+    display: block;
+    width: 780px;
+    height: 200px;
+    margin-left:300px ;
+}
+.img1, .img2, .img3{
+    float: left;
+    width: 240px;
+    margin-left: 10px;
+}
+.img1 figure{
+    float: left;
+    margin: 0px auto;
+    border: 10px white solid;
+    background-color: white;
+    border-radius: 6px;
+}
+figcaption{
+   background-image:  url('http://i.stack.imgur.com/LaaDU.png');
+    padding-left: 20px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+}
